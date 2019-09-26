@@ -14,3 +14,4 @@ set_order: 1
 ---
 
 Video tutorial introducing the Decentraland Marketplace, with step-by-step instructions on how to get started buying, selling, and managing your LAND.
+see below. sorry, never used github. shows you how poorly your help guide works that i tried this. 
